@@ -5,4 +5,6 @@
     <string name="signup">Not a member? Sign up now.</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcome">Welcome</string>
 </resources>
